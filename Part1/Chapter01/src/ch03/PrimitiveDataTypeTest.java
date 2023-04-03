@@ -25,5 +25,6 @@ public class PrimitiveDataTypeTest {
 		double d = 23.34;
 
 	}
+	
 
 }
