@@ -26,5 +26,5 @@ public class EnumTest {
 }
 
 enum Gender {
-	MALE, FEMALE
+	MALE, FEMALE;
 }
