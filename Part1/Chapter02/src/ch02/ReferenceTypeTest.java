@@ -13,6 +13,8 @@ public class ReferenceTypeTest {
 		// 참조타입
 		String string = new String("Hello");
 		System.out.println(string);
+		// string에는 메모리의 위치 값을 저장하고 있음, String 인스턴스를 참조
+		// class들은 모두 참조형이다.
 		
 	}
 
